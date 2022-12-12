@@ -35,15 +35,24 @@
 // document.write(age.length," ", aGe.length," ", agE.length);
 // document.write(" "," ", " ",age.toUpperCase());
 // document.write(" "," ", " ",age.toLocaleLowerCase());
-var code = prompt("what is the passwrod?", "");
-if(code.toLowerCase() == "password" && code.length==8) {
-   alert("access granted");
-}
-else{
-  alert(code.toUpperCase()+" is wrong");
-}
+// var code = prompt("what is the passwrod?", "");
+// if(code.toLowerCase() == "password" && code.length==8) {
+//    alert("access granted");
+// }
+// else{
+//   alert(code.toUpperCase()+" is wrong");
+// }
 // var k = confirm("Ok or Cancel??");
 
+// var farenhite, celsius;
+// farenhite = prompt("Enter F num - ","");
+// if(farenhite){
+//    celsius = 5/9 * (farenhite-32);
+// }
+// else{
+//    alert("provide a number");
+// }
+// document.write(celsius);
 
    // if(k){
    //    alert("You did it okay...!!!")
